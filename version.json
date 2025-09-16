@@ -1,0 +1,27 @@
+{
+  "version": "1.0.0",
+  "buildNumber": "1",
+  "releaseDate": "2025-09-16",
+  "releaseNotes": "Initial release of ABES Net Auto Login App.\n\n• Automatic captive portal detection\n• Secure credential storage\n• Background connectivity monitoring\n• Modern Material Design UI\n• Dark/Light theme support",
+  "downloadUrl": "https://github.com/krishnaguptta/abesnet_public/releases/latest/download/app-release.apk",
+  "releasePageUrl": "https://github.com/krishnaguptta/abesnet_public/releases/latest",
+  "minimumSupportedVersion": "1.0.0",
+  "forceUpdate": false,
+  "features": [
+    "Auto-login functionality",
+    "Secure credential storage", 
+    "Background monitoring",
+    "Theme customization"
+  ],
+  "changelog": {
+    "1.0.0": {
+      "date": "2025-09-16",
+      "changes": [
+        "Initial release",
+        "Auto-login for captive portals",
+        "Secure storage implementation",
+        "Modern UI with animations"
+      ]
+    }
+  }
+}
