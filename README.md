@@ -1,5 +1,5 @@
 
-# Auto Wi‑Fi Login (Flutter)
+# ABES Net
 
 This Flutter app automates captive-portal login to a gateway at `192.168.1.254:8090` by:
 - Probing internet with `http://www.gstatic.com/generate_204`.
