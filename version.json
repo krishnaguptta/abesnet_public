@@ -1,5 +1,5 @@
 {
-  "version": "0.3.0",
+  "version": "0.3.1",
   "buildNumber": "1",
   "releaseDate": "2025-09-20",
   "releaseNotes": "Implemented Background Monitoring. Improved UI with animations. Fixed various bugs and improved performance.",
@@ -37,6 +37,13 @@
         "Fixed theme preference not saving",
         "Fixed URL is not launching in browser",
         "Improved Location permission handling"
+      ]
+    },
+    "0.3.1": {
+      "date": "2025-09-20",
+      "changes": [
+        "fix: disabled Location service not showing warning",
+        "fix: update dialog not showing on app start"
       ]
     }
   }
